@@ -1,7 +1,6 @@
 # AVL Tree Implementation in C++
 
-This is a functional and well-commented C++ implementation of an AVL Tree,
-a self-balancing binary search tree.
+C++ implementation of an AVL Tree, a self-balancing binary search tree.
 The code includes the following functions: insert, delete, search, and print.
 It is fully functional and well-commented.
 
