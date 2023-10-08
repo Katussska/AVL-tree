@@ -738,8 +738,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/home/katussska/Private/github/vsb/algII/avl-tree/cmake-build-debug",
-		"source" : "/home/katussska/Private/github/vsb/algII/avl-tree"
+		"build" : "/home/katussska/Private/github/AVL-tree/cmake-build-debug",
+		"source" : "/home/katussska/Private/github/AVL-tree"
 	},
 	"version" : 
 	{

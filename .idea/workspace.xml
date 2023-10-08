@@ -20,7 +20,18 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d690017c-2820-4231-8869-7abb6d1100d6" name="Changes" comment="init" />
+    <list default="true" id="d690017c-2820-4231-8869-7abb6d1100d6" name="Changes" comment="init">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-13d4554a6eb61df27774.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-78bdb1ac5e3797a753aa.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-45567c45aa9e78be93ad.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-d8bbea8189b965abc0cd.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-3a86a7cba3df52735450.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-ab1f0783d5864d648f70.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-10-05T12-43-52-0977.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-10-08T01-14-52-0024.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +52,10 @@
     <option name="myRunOnSave" value="true" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -74,12 +88,13 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/katussska/Private/github",
+    "last_opened_file_path": "/home/katussska/Private/github/AVL-tree",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -92,6 +107,11 @@
   <component name="RunManager" selected="CMake Application.alv-tree.out">
     <configuration name="Unnamed" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory">
       <method v="2" />
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
     </configuration>
     <configuration name="alv-tree.out" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="alv-tree" TARGET_NAME="alv-tree.out" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="alv-tree" RUN_TARGET_NAME="alv-tree.out">
       <method v="2">
@@ -118,6 +138,8 @@
       <workItem from="1696711710814" duration="6725000" />
       <workItem from="1696722150019" duration="3805000" />
       <workItem from="1696727056681" duration="131000" />
+      <workItem from="1696727692250" duration="45000" />
+      <workItem from="1696727742423" duration="1276000" />
     </task>
     <task id="LOCAL-00001" summary="printTree done">
       <option name="closed" value="true" />
