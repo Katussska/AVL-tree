@@ -43,7 +43,7 @@ remains balanced. If the value is found and removed, the tree's structure is adj
 Node *deleteNode(Node *root, int key);
 
 // Example
-AVLTree.deleteNode(AVLTree.root, 32);
+AVLTree.deleteNode(AVLTree.root, 16);
 ```
 
 ### Search
@@ -61,7 +61,7 @@ Tree::search(AVLTree.root, 32);
 
 #### Output
 
-![search.png](images%2Fsearch.png)
+![search.png](images/search.png)
 
 ### Print
 
@@ -77,4 +77,4 @@ AVLTree.printTree(AVLTree.root, 0);
 
 #### Output
 
-![print.png](images%2Fprint.png)
+![print.png](images/print.png)

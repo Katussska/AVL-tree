@@ -8,7 +8,7 @@ using namespace std;
 int main() {
 
     // Define a vector of keys for testing
-    vector<int> keys = {3, 8, 12, 15, 16, 19, 28, 32, 45, 50, 56, 61, 62, 64, 66, 77, 85, 86, 87, 88};
+    vector<int> keys = {3, 8, 12, 15, 16, 19, 28, 32/*, 45, 50, 56, 61, 62, 64, 66, 77, 85, 86, 87, 88*/};
 
     // Create an instance of the Tree class
     Tree AVLTree;
