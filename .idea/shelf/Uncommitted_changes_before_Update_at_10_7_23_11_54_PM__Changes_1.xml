@@ -1,0 +1,24 @@
+<changelist name="Uncommitted_changes_before_Update_at_10_7_23_11_54_PM_[Changes]1" date="1696715706032" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_7_23_11_54_PM_[Changes]1/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 10/7/23 11:54 PM [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="../../javaI/pong/target/classes/lab/Bat.class" />
+    <option name="AFTER_PATH" value="../../javaI/pong/target/classes/lab/Bat.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_7_23_11_54_PM_[Changes]1/Bat.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../../javaI/pong/target/classes/lab/Ball.class" />
+    <option name="AFTER_PATH" value="../../javaI/pong/target/classes/lab/Ball.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_7_23_11_54_PM_[Changes]1/Ball.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../../javaI/pong/target/classes/lab/Game.class" />
+    <option name="AFTER_PATH" value="../../javaI/pong/target/classes/lab/Game.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_7_23_11_54_PM_[Changes]1/Game.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../../javaI/pong/target/classes/lab/Vector.class" />
+    <option name="AFTER_PATH" value="../../javaI/pong/target/classes/lab/Vector.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_7_23_11_54_PM_[Changes]1/Vector.class" />
+  </binary>
+</changelist>

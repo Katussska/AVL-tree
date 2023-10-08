@@ -1,0 +1,392 @@
+Index: ../../javaI/cannon/.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"8633c626-cc36-43cf-bb64-759674be53f4\" name=\"Changes\" comment=\"\">\n      <change afterPath=\"$PROJECT_DIR$/../lab02-2023_solution_Wed_10_45/.idea/discord.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/../lab02-2023_solution_Wed_10_45/src/main/java/lab/Constants.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/../lab02-2023_solution_Wed_10_45/src/main/java/lab/Dragon.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/../lab02-2023_solution_Wed_10_45/src/main/resources/lab/dragon.gif\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/../lab03-Solution_Wed_10-45.zip\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.gitignore\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/discord.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/README.md\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/pom.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/lab/App.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/lab/BulletAnimated.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/lab/Cannon.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/lab/Constants.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/lab/Dragon.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/lab/DrawingThread.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/lab/Routines.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/lab/World.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/module-info.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/resources/lab/application.css\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/resources/lab/dragon.gif\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/resources/lab/fireball-transparent.gif\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/../BAI0033_lab02.zip\" beforeDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/../..\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectColorInfo\"><![CDATA[{\n  \"associatedIndex\": 6\n}]]></component>\n  <component name=\"ProjectId\" id=\"2WLJRuWrh3CUHul1DSPvHxFvaYz\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"WebServerToolWindowFactoryState\": \"false\",\n    \"git-widget-placeholder\": \"main\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"RunManager\">\n    <configuration name=\"Unnamed\" type=\"Application\" factoryName=\"Application\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"lab.App\" />\n      <module name=\"lab03\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration default=\"true\" type=\"JetRunConfigurationType\">\n      <module name=\"lab03-Solution_Wed_10-45\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration default=\"true\" type=\"KotlinStandaloneScriptRunConfigurationType\">\n      <module name=\"lab03-Solution_Wed_10-45\" />\n      <option name=\"filePath\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"8633c626-cc36-43cf-bb64-759674be53f4\" name=\"Changes\" comment=\"\" />\n      <created>1696505922641</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1696505922641</updated>\n      <workItem from=\"1696505923995\" duration=\"236000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../javaI/cannon/.idea/workspace.xml b/../../javaI/cannon/.idea/workspace.xml
+--- a/../../javaI/cannon/.idea/workspace.xml	
++++ b/../../javaI/cannon/.idea/workspace.xml	
+@@ -5,28 +5,23 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="8633c626-cc36-43cf-bb64-759674be53f4" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/../lab02-2023_solution_Wed_10_45/.idea/discord.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../lab02-2023_solution_Wed_10_45/src/main/java/lab/Constants.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../lab02-2023_solution_Wed_10_45/src/main/java/lab/Dragon.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../lab02-2023_solution_Wed_10_45/src/main/resources/lab/dragon.gif" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../lab03-Solution_Wed_10-45.zip" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+       <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/lab/App.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/lab/BulletAnimated.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/lab/Cannon.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/lab/Constants.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/lab/Dragon.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/lab/DrawingThread.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/lab/Routines.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/lab/World.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/resources/lab/application.css" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/resources/lab/dragon.gif" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/resources/lab/fireball-transparent.gif" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/../BAI0033_lab02.zip" beforeDir="false" />
++      <change afterPath="$PROJECT_DIR$/../../oop/Projekt-oop/src/.idea/.gitignore" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../../oop/Projekt-oop/src/.idea/vcs.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../../oop/ukol_05/.idea/modules.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../lab01/src/main/java/lab/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../algII/avl-tree/.idea/.gitignore" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../lab01/src/main/java/lab/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/.idea/vcs.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../pong/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../pong/src/main/java/lab/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/src/main/java/lab/Ball.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../pong/src/main/java/lab/Bat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/src/main/java/lab/Bat.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../pong/src/main/java/lab/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/src/main/java/lab/Game.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../pong/target/classes/lab/Ball.class" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/target/classes/lab/Ball.class" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../pong/target/classes/lab/Bat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/target/classes/lab/Bat.class" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../pong/target/classes/lab/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/target/classes/lab/Game.class" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../pong/target/classes/lab/Vector.class" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/target/classes/lab/Vector.class" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -39,9 +34,9 @@
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
+   </component>
+-  <component name="ProjectColorInfo"><![CDATA[{
+-  "associatedIndex": 6
+-}]]></component>
++  <component name="ProjectColorInfo">{
++  &quot;associatedIndex&quot;: 6
++}</component>
+   <component name="ProjectId" id="2WLJRuWrh3CUHul1DSPvHxFvaYz" />
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+@@ -53,6 +48,10 @@
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+     "WebServerToolWindowFactoryState": "false",
+     "git-widget-placeholder": "main",
++    "node.js.detected.package.eslint": "true",
++    "node.js.detected.package.tslint": "true",
++    "node.js.selected.package.eslint": "(autodetect)",
++    "node.js.selected.package.tslint": "(autodetect)",
+     "vue.rearranger.settings.migration": "true"
+   }
+ }]]></component>
+@@ -87,6 +86,7 @@
+       <option name="presentableId" value="Default" />
+       <updated>1696505922641</updated>
+       <workItem from="1696505923995" duration="236000" />
++      <workItem from="1696618817124" duration="2089000" />
+     </task>
+     <servers />
+   </component>
+Index: ../../javaI/pong/.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"4d74bce6-6dc3-4322-bd90-903447fe0df2\" name=\"Changes\" comment=\"\">\n      <change afterPath=\"$PROJECT_DIR$/../lab01/src/main/java/lab/.idea/.gitignore\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/../lab01/src/main/java/lab/.idea/discord.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/../lab01/src/main/java/lab/.idea/misc.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/../lab01/src/main/java/lab/.idea/modules.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/../lab01/src/main/java/lab/.idea/vcs.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/../lab01/src/main/java/lab/lab.iml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/compiler.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/discord.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/encodings.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/jarRepositories.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/lab/Ball.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/lab/Ball.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/lab/Bat.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/lab/Bat.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/lab/Game.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/lab/Game.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/lab/Routines.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/lab/Routines.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/target/classes/lab/Ball.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/target/classes/lab/Ball.class\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/target/classes/lab/Bat.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/target/classes/lab/Bat.class\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/target/classes/lab/Game.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/target/classes/lab/Game.class\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/target/classes/lab/Routines.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/target/classes/lab/Routines.class\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"FormatOnSaveOptions\">\n    <option name=\"myRunOnSave\" value=\"true\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/../..\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 8\n}</component>\n  <component name=\"ProjectId\" id=\"2VhfXFk8houH2at53Q6sHtSPhQf\" />\n  <component name=\"ProjectLevelVcsManager\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"ASKED_ADD_EXTERNAL_FILES\": \"true\",\n    \"ASKED_SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\n    \"WebServerToolWindowFactoryState\": \"false\",\n    \"git-widget-placeholder\": \"main\",\n    \"last_opened_file_path\": \"/home/katussska/Private/github/vsb/javaI/lab02\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"settings.editor.selected.configurable\": \"reference.settingsdialog.IDE.editor.colors.General\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"RunManager\">\n    <configuration name=\"Unnamed\" type=\"Application\" factoryName=\"Application\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"lab.App\" />\n      <module name=\"lab01\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"4d74bce6-6dc3-4322-bd90-903447fe0df2\" name=\"Changes\" comment=\"\" />\n      <created>1695293271941</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1695293271941</updated>\n      <workItem from=\"1695293273612\" duration=\"2908000\" />\n      <workItem from=\"1695302325417\" duration=\"1023000\" />\n      <workItem from=\"1695303364617\" duration=\"3067000\" />\n      <workItem from=\"1695308601729\" duration=\"218000\" />\n      <workItem from=\"1695798729454\" duration=\"220000\" />\n      <workItem from=\"1695883978484\" duration=\"147000\" />\n      <workItem from=\"1695884139638\" duration=\"33000\" />\n      <workItem from=\"1695884185317\" duration=\"152000\" />\n      <workItem from=\"1695884352918\" duration=\"1516000\" />\n      <workItem from=\"1695888250398\" duration=\"31000\" />\n      <workItem from=\"1695888316775\" duration=\"3132000\" />\n      <workItem from=\"1696247457835\" duration=\"1400000\" />\n      <workItem from=\"1696254572832\" duration=\"1244000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\n  </component>\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\n    <expand />\n    <select />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../javaI/pong/.idea/workspace.xml b/../../javaI/pong/.idea/workspace.xml
+--- a/../../javaI/pong/.idea/workspace.xml	
++++ b/../../javaI/pong/.idea/workspace.xml	
+@@ -4,28 +4,24 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="4d74bce6-6dc3-4322-bd90-903447fe0df2" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/../lab01/src/main/java/lab/.idea/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../lab01/src/main/java/lab/.idea/discord.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../lab01/src/main/java/lab/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../lab01/src/main/java/lab/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../lab01/src/main/java/lab/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../lab01/src/main/java/lab/lab.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
++    <list default="true" id="4d74bce6-6dc3-4322-bd90-903447fe0df2" name="Changes" comment="init">
++      <change afterPath="$PROJECT_DIR$/../cannon/README.md" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../../oop/Projekt-oop/src/.idea/.gitignore" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../../oop/Projekt-oop/src/.idea/vcs.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../../oop/ukol_05/.idea/modules.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cannon/.idea/vcs.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../cannon/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cannon/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../cannon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cannon/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../lab01/src/main/java/lab/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../algII/avl-tree/.idea/.gitignore" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../lab01/src/main/java/lab/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/src/main/java/lab/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lab/Ball.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/src/main/java/lab/Bat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lab/Bat.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/src/main/java/lab/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lab/Game.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/lab/Routines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lab/Routines.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/target/classes/lab/Ball.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lab/Ball.class" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/target/classes/lab/Bat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lab/Bat.class" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/target/classes/lab/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lab/Game.class" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/classes/lab/Routines.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lab/Routines.class" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/target/classes/lab/Vector.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lab/Vector.class" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -59,24 +55,24 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "ASKED_ADD_EXTERNAL_FILES": "true",
+-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "WebServerToolWindowFactoryState": "false",
+-    "git-widget-placeholder": "main",
+-    "last_opened_file_path": "/home/katussska/Private/github/vsb/javaI/lab02",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.General",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
++    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
++    &quot;last_opened_file_path&quot;: &quot;/home/katussska/Private/github/vsb/javaI/lab02&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.General&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RunManager">
+     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="lab.App" />
+@@ -107,7 +103,17 @@
+       <workItem from="1695888316775" duration="3132000" />
+       <workItem from="1696247457835" duration="1400000" />
+       <workItem from="1696254572832" duration="1244000" />
++      <workItem from="1696618560834" duration="2982000" />
+     </task>
++    <task id="LOCAL-00001" summary="init">
++      <option name="closed" value="true" />
++      <created>1696618692131</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1696618692131</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -115,6 +121,8 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
++    <MESSAGE value="init" />
++    <option name="LAST_COMMIT_MESSAGE" value="init" />
+   </component>
+   <component name="XSLT-Support.FileAssociations.UIState">
+     <expand />
+Index: ../../javaI/cannon/.idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ExternalStorageConfigurationManager\" enabled=\"true\" />\n  <component name=\"MavenProjectsManager\">\n    <option name=\"originalFiles\">\n      <list>\n        <option value=\"$PROJECT_DIR$/pom.xml\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_17\" default=\"true\" project-jdk-name=\"17\" project-jdk-type=\"JavaSDK\" />\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../javaI/cannon/.idea/misc.xml b/../../javaI/cannon/.idea/misc.xml
+--- a/../../javaI/cannon/.idea/misc.xml	
++++ b/../../javaI/cannon/.idea/misc.xml	
+@@ -1,4 +1,3 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ExternalStorageConfigurationManager" enabled="true" />
+   <component name="MavenProjectsManager">
+Index: ../../javaI/.idea/vcs.xml
+===================================================================
+diff --git a/../../javaI/.idea/vcs.xml b/../../javaI/cannon/.idea/vcs.xml
+rename from ../../javaI/.idea/vcs.xml
+rename to ../../javaI/cannon/.idea/vcs.xml
+--- a/../../javaI/.idea/vcs.xml	
++++ b/../../javaI/cannon/.idea/vcs.xml	
+@@ -1,6 +1,6 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$/lab01" vcs="Git" />
++    <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: ../../oop/ukol_05/.idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../oop/ukol_05/.idea/modules.xml b/../../oop/ukol_05/.idea/modules.xml
+new file mode 100644
+--- /dev/null	
++++ b/../../oop/ukol_05/.idea/modules.xml	
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/ukol_05.iml" filepath="$PROJECT_DIR$/.idea/ukol_05.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: ../../oop/Projekt-oop/src/.idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../oop/Projekt-oop/src/.idea/vcs.xml b/../../oop/Projekt-oop/src/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	
++++ b/../../oop/Projekt-oop/src/.idea/vcs.xml	
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$/../../.." vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: ../../oop/Projekt-oop/src/.idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../oop/Projekt-oop/src/.idea/.gitignore b/../../oop/Projekt-oop/src/.idea/.gitignore
+new file mode 100644
+--- /dev/null	
++++ b/../../oop/Projekt-oop/src/.idea/.gitignore	
+@@ -0,0 +1,8 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Editor-based HTTP Client requests
++/httpRequests/
++# Datasource local storage ignored files
++/dataSources/
++/dataSources.local.xml
+Index: ../../javaI/pong/src/main/java/lab/Game.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package lab;\n\nimport javafx.scene.canvas.GraphicsContext;\nimport javafx.scene.paint.Color;\n\npublic class Game {\n    private double width;\n    private double height;\n    private Ball ball;\n    private Bat player1;\n    private Bat player2;\n\n    public Game(double width, double height) {\n        this.width = width;\n        this.height = height;\n        ball = new Ball(this);\n        player1 = new Bat(this, 30);\n        player2 = new Bat(this, (int) width - 45);\n    }\n\n    public void draw(GraphicsContext gc) {\n        gc.clearRect(0, 0, width, height);\n\n        //background\n        gc.setFill(Color.BLACK);\n        gc.fillRect(0, 0, width, height);\n\n        //lines\n        gc.setFill(Color.GRAY);\n        gc.fillRect(0, 0, width, 15);\n        gc.fillRect(0, height - 15, width, 15);\n\n        //middle\n        for (int i = 0; i < 15; i++) {\n            gc.fillRect(width / 2 - 15, i * 15 + i * 15, 15, 15);\n        }\n\n        ball.draw(gc);\n        player1.draw(gc);\n        player2.draw(gc);\n    }\n\n    public void simulate() {\n        ball.simulate();\n        player1.simulate();\n        player2.simulate();\n    }\n\n    public double getWidth() {\n        return width;\n    }\n\n    public double getHeight() {\n        return height;\n    }\n\n}\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../javaI/pong/src/main/java/lab/Game.java b/../../javaI/pong/src/main/java/lab/Game.java
+--- a/../../javaI/pong/src/main/java/lab/Game.java	
++++ b/../../javaI/pong/src/main/java/lab/Game.java	
+@@ -44,6 +44,10 @@
+         ball.simulate();
+         player1.simulate();
+         player2.simulate();
++
++        if (ball.getBB().intersects(player1.getBB()) || ball.getBB().intersects(player2.getBB())) {
++            ball.hit();
++        }
+     }
+ 
+     public double getWidth() {
+Index: ../../javaI/pong/src/main/java/lab/Ball.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package lab;\n\nimport javafx.geometry.Point2D;\nimport javafx.scene.canvas.GraphicsContext;\nimport javafx.scene.paint.Color;\n\nclass Vector {\n    public int x;\n    public int y;\n\n    public Vector(int x, int y) {\n        this.x = x;\n        this.y = y;\n    }\n}\n\npublic class Ball {\n\n    private Vector vector = new Vector(2, 2);\n    private Point2D position;\n    private final int width = 15;\n    private final int height = 15;\n    private Game game;\n\n    public Ball(Game game) {\n        this.game = game;\n        this.position = new Point2D(20, 20);\n    }\n\n    public Ball(Game game, Point2D startPosition) {\n        this.game = game;\n        this.position = startPosition;\n    }\n\n    public void draw(GraphicsContext gc) {\n        gc.save();\n        gc.setFill(Color.GRAY);\n        gc.fillRect(position.getX(), position.getY(), width, height);\n        gc.restore();\n    }\n\n    public void simulate() {\n        if (position.getX() + vector.x < 0 || position.getX() + this.width + vector.x > game.getWidth()) {\n            vector.x *= -1;\n        }\n        if (position.getY() + vector.y < 15 || position.getY() + this.height + vector.y > game.getHeight() - 15) {\n            vector.y *= -1;\n        }\n        position = new Point2D(position.getX() + vector.x, position.getY() + vector.y);\n    }\n}\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../javaI/pong/src/main/java/lab/Ball.java b/../../javaI/pong/src/main/java/lab/Ball.java
+--- a/../../javaI/pong/src/main/java/lab/Ball.java	
++++ b/../../javaI/pong/src/main/java/lab/Ball.java	
+@@ -1,6 +1,7 @@
+ package lab;
+ 
+ import javafx.geometry.Point2D;
++import javafx.geometry.Rectangle2D;
+ import javafx.scene.canvas.GraphicsContext;
+ import javafx.scene.paint.Color;
+ 
+@@ -48,4 +49,13 @@
+         }
+         position = new Point2D(position.getX() + vector.x, position.getY() + vector.y);
+     }
++
++    public Rectangle2D getBB() {
++        return new Rectangle2D(position.getX(), position.getY(), width, height);
++    }
++
++    public void hit() {
++        position = new Point2D(-position.getX(), -position.getY());
++
++    }
+ }
+Index: ../../javaI/pong/src/main/java/lab/Bat.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package lab;\n\nimport javafx.geometry.Point2D;\nimport javafx.scene.canvas.GraphicsContext;\nimport javafx.scene.paint.Color;\n\npublic class Bat {\n\n    private Point2D position;\n    private final int width = 15;\n    private final int height = 75;\n    private int speed = 2;\n    private Game game;\n\n    public Bat(Game game, int positionX) {\n        this.game = game;\n        this.position = new Point2D(positionX, 30);\n    }\n\n    public Bat(Game game, Point2D position) {\n        this.game = game;\n        this.position = position;\n    }\n\n    public void draw(GraphicsContext gc) {\n        gc.save();\n        gc.setFill(Color.GRAY);\n        gc.fillRect(position.getX(), position.getY(), width, height);\n        gc.restore();\n    }\n\n    public void simulate() {\n        if (position.getY() + speed < 30 || position.getY() + speed > game.getHeight() - 30 - height) {\n            speed *= -1;\n        }\n        position = new Point2D(position.getX(), position.getY() + speed);\n    }\n}\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../javaI/pong/src/main/java/lab/Bat.java b/../../javaI/pong/src/main/java/lab/Bat.java
+--- a/../../javaI/pong/src/main/java/lab/Bat.java	
++++ b/../../javaI/pong/src/main/java/lab/Bat.java	
+@@ -1,6 +1,7 @@
+ package lab;
+ 
+ import javafx.geometry.Point2D;
++import javafx.geometry.Rectangle2D;
+ import javafx.scene.canvas.GraphicsContext;
+ import javafx.scene.paint.Color;
+ 
+@@ -35,4 +36,8 @@
+         }
+         position = new Point2D(position.getX(), position.getY() + speed);
+     }
++
++    public Rectangle2D getBB() {
++        return new Rectangle2D(position.getX(), position.getY(), width, height);
++    }
+ }
+Index: ../../javaI/lab01/src/main/java/lab/.idea/vcs.xml
+===================================================================
+diff --git a/../../javaI/lab01/src/main/java/lab/.idea/vcs.xml b/../../javaI/pong/.idea/vcs.xml
+rename from ../../javaI/lab01/src/main/java/lab/.idea/vcs.xml
+rename to ../../javaI/pong/.idea/vcs.xml
+--- a/../../javaI/lab01/src/main/java/lab/.idea/vcs.xml	
++++ b/../../javaI/pong/.idea/vcs.xml	
+@@ -1,6 +1,6 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$/../../../../../.." vcs="Git" />
++    <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
+   </component>
+ </project>
+\ No newline at end of file
+diff --git a/../../javaI/cannon/README.md b/../../javaI/cannon/README.md
+new file mode 100644
+diff --git a/../../javaI/lab01/src/main/java/lab/.idea/.gitignore b/.idea/.gitignore
+rename from ../../javaI/lab01/src/main/java/lab/.idea/.gitignore
+rename to .idea/.gitignore
