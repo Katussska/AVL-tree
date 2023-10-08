@@ -20,11 +20,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d690017c-2820-4231-8869-7abb6d1100d6" name="Changes" comment="Done2.0">
+    <list default="true" id="d690017c-2820-4231-8869-7abb6d1100d6" name="Changes" comment="Done">
+      <change afterPath="$PROJECT_DIR$/images/printTree.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/print.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/print.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/print.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +138,7 @@
       <workItem from="1696729108653" duration="331000" />
       <workItem from="1696729683740" duration="505000" />
       <workItem from="1696734334507" duration="409000" />
-      <workItem from="1696734752246" duration="1209000" />
+      <workItem from="1696734752246" duration="1402000" />
     </task>
     <task id="LOCAL-00001" summary="printTree done">
       <option name="closed" value="true" />
@@ -196,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696735469816</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Done">
+      <option name="closed" value="true" />
+      <created>1696735970804</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1696735970804</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,9 +224,9 @@
     <MESSAGE value="printTree done" />
     <MESSAGE value="init" />
     <MESSAGE value="finishing" />
-    <MESSAGE value="Done" />
     <MESSAGE value="Done2.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done2.0" />
+    <MESSAGE value="Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

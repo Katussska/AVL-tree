@@ -77,4 +77,4 @@ AVLTree.printTree(AVLTree.root, 0);
 
 #### Output
 
-![print.png](images/print.png)
+![printTree.png](images%2FprintTree.png)
