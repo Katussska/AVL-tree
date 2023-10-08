@@ -44,6 +44,12 @@ Node *deleteNode(Node *root, int key);
 
 // Example
 AVLTree.deleteNode(AVLTree.root, 32);
+
+// Output
+32's height in tree is 5
+32 node is the root
+32's left node is 15
+32's right node is 77
 ```
 
 ### Search
@@ -59,6 +65,10 @@ static void search(Node *root, int key);
 Tree::search(AVLTree.root, 32);
 ```
 
+#### Output
+
+![search.png](images%2Fsearch.png)
+
 ### Print
 
 The `printTree` function outputs the elements of the AVL Tree in sorted order.
@@ -70,3 +80,7 @@ void printTree(Node *root, int space);
 // Example
 AVLTree.printTree(AVLTree.root, 0);
 ```
+
+#### Output
+
+![print.png](images%2Fprint.png)

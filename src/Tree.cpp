@@ -113,10 +113,10 @@ Node *Tree::insert(Node *node, int key) {
         return new Node(key);
 
     // If the key is less than the current node's key, insert to the left
-    if (key < node->key) //hodnota mensi, prida se doleva
+    if (key < node->key)
         node->left = insert(node->left, key);
         // If the key is greater, insert to the right
-    else if (key > node->key) // hodnota vetsi, prida se doprava
+    else if (key > node->key)
         node->right = insert(node->right, key);
         // If the key is equal, it's a duplicate and no insertion is done
     else
@@ -236,7 +236,7 @@ void Tree::printTree(Node *node, int space) {
     if (node == nullptr)
         return;
 
-    const int distance = 5; // The distance between nodes from left to right and space from top to bottom
+    const int distance = 3; // The distance between nodes from left to right and space from top to bottom
     space += distance; // Increase the indentation for child nodes
 
     // Recursively print the right subtree with increased indentation
