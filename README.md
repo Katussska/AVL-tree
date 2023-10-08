@@ -44,12 +44,6 @@ Node *deleteNode(Node *root, int key);
 
 // Example
 AVLTree.deleteNode(AVLTree.root, 32);
-
-// Output
-32's height in tree is 5
-32 node is the root
-32's left node is 15
-32's right node is 77
 ```
 
 ### Search
